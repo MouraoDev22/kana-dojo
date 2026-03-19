@@ -17,7 +17,7 @@
     "note": "Classic comedic retort (tsukkomi). (Set 1)",
     "id": 2,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "めっちゃ",
@@ -27,7 +27,7 @@
     "note": "Now used nationwide. (Set 1)",
     "id": 3,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "あかん",
@@ -37,7 +37,7 @@
     "note": "Used for prohibition/failure. (Set 1)",
     "id": 4,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜へん",
@@ -47,7 +47,7 @@
     "note": "Example: 食べへん = 食べない。 (Set 1)",
     "id": 5,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "しばれる",
@@ -57,7 +57,7 @@
     "note": "Used for severe winter cold. (Set 1)",
     "id": 6,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なまら",
@@ -97,7 +97,7 @@
     "note": "Reason marker in Kyushu. (Set 1)",
     "id": 10,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "よか",
@@ -107,7 +107,7 @@
     "note": "Common Kyushu replacement. (Set 1)",
     "id": 11,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "でら",
@@ -117,7 +117,7 @@
     "note": "Characteristic Nagoya intensifier. (Set 1)",
     "id": 12,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜だがや",
@@ -127,7 +127,7 @@
     "note": "Strong Nagoya marker. (Set 1)",
     "id": 13,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "ぶち",
@@ -136,7 +136,7 @@
     "region": "Yamaguchi/Hiroshima",
     "note": "Regional intensifier. (Set 1)",
     "id": 14,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
