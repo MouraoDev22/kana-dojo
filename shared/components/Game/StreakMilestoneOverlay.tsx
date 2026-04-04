@@ -168,12 +168,12 @@ export default function StreakMilestoneOverlay({
               variants={itemVariants}
               className='max-w-2xl text-xl font-semibold text-(--secondary-color) sm:text-2xl'
             >
-              + {message}
+              {message}
             </motion.p>
 
             <motion.p
               variants={itemVariants}
-              className='text-sm text-(--secondary-color)/80 '
+              className='text-sm text-(--secondary-color)/80'
             >
               ({hasFinePointer ? 'click' : 'tap'} or press any key to continue)
             </motion.p>
