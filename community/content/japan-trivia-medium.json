@@ -441,5 +441,27 @@
     "Mount Tate"
   ],
   "correctIndex": 1
-}
+},
+{
+  "question": "What is the Japanese term for a convenience store?",
+  "difficulty": "medium",
+  "answers": [
+    "Depato",
+    "Konbini",
+    "Ramen-ya",
+    "Kissa"
+  ],
+  "correctIndex": 1
+},
+  {
+    "question": "Which traditional Japanese art involves arranging flowers in a highly structured and aesthetic way?",
+  "difficulty": "medium",
+  "answers": [
+    "Origami",
+    "Ikebana",
+    "Calligraphy",
+    "Bonsai"
+  ],
+  "correctIndex": 1
+  }
 ]

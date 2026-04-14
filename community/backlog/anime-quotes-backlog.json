@@ -136,7 +136,7 @@
     "english": "I will transcend humanity!",
     "anime": "JoJo's Bizarre Adventure: Battle Tendency",
     "character": "Kars",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -146,7 +146,7 @@
     "english": "Good grief... honestly.",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Jotaro Kujo",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -156,7 +156,7 @@
     "english": "But... that's what I like.",
     "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
     "character": "Yoshikage Kira",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -206,7 +206,7 @@
     "english": "If you give up, that's the end of the game.",
     "anime": "Slam Dunk",
     "character": "Kaede Rukawa",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -236,7 +236,7 @@
     "english": "I think you should just laugh.",
     "anime": "Neon Genesis Evangelion",
     "character": "Rei Ayanami",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -456,7 +456,7 @@
     "english": "Who the hell do you think I am!",
     "anime": "Gurren Lagann",
     "character": "Kamina",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -487,7 +487,7 @@
     "anime": "Fairy Tail",
     "character": "Natsu Dragneel",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 50,
@@ -606,7 +606,7 @@
     "english": "What?! (alt wording 9)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Joseph Joestar",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -696,7 +696,7 @@
     "english": "You're already dead. (alt wording 18)",
     "anime": "Fist of the North Star",
     "character": "Kenshiro",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -816,7 +816,7 @@
     "english": "Shishishi! (alt wording 30)",
     "anime": "One Piece",
     "character": "Monkey D. Luffy",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1186,7 +1186,7 @@
     "english": "Good grief... honestly. (alt wording 15) (alt wording 67)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Jotaro Kujo",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1256,7 +1256,7 @@
     "english": "Not yet! It's not over yet! (alt wording 22) (alt wording 74)",
     "anime": "Mobile Suit Gundam",
     "character": "Char Aznable",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

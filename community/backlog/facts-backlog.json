@@ -20,7 +20,7 @@
   {
     "id": 4,
     "fact": "The Japanese word 'age-otori' (上げ劣り) describes the specific experience of looking worse after a haircut - a feeling so common it needed its own word.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -554,7 +554,7 @@
   {
     "id": 93,
     "fact": "The Japanese word 'tekito' (適当) means both 'appropriate' and 'whatever/random' depending on context and tone.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1196,7 +1196,7 @@
   {
     "id": 200,
     "fact": "Japan has 'hansei' (反省) - structured self-reflection sessions where you honestly examine your mistakes to improve.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1394,7 +1394,7 @@
   {
     "id": 233,
     "fact": "Japan has a ceremony called 'kagamibiraki' (鏡開き) where mochi is broken with a wooden mallet to celebrate a fresh start.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1418,7 +1418,7 @@
   {
     "id": 237,
     "fact": "Japan celebrates 'Tanuki no Hi' festivals in some regions, honoring the trickster raccoon dog with lanterns and dance performances.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1532,7 +1532,7 @@
   {
     "id": 256,
     "fact": "The word 'asahi' (朝日) means morning sun, and many towns host sunrise walks called 'asahi sanpo'.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1544,7 +1544,7 @@
   {
     "id": 258,
     "fact": "The phrase 'shoku no shiki' (食の四季) refers to eating with the seasons — menus change to highlight spring, summer, fall, and winter ingredients.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1610,7 +1610,7 @@
   {
     "id": 269,
     "fact": "Japan has 'yukidaruma' (雪だるま) snowman festivals where entire parks fill with glowing snow lanterns.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "id": 274,
     "fact": "The word 'yuigahama' appears in coastal place names, referencing a long, gently sloping beach.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1730,7 +1730,7 @@
   {
     "id": 289,
     "fact": "Japan has 'sento' public bathhouses that predate modern plumbing and still serve as neighborhood gathering spots.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1838,7 +1838,7 @@
   {
     "id": 307,
     "fact": "Japan’s 'tanabata' festival celebrates star-crossed lovers with colorful paper wishes tied to bamboo branches.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1856,13 +1856,13 @@
   {
     "id": 310,
     "fact": "The term 'okagesama' (おかげさまで) expresses humility, meaning \"thanks to you\" or \"thanks to circumstances.\"",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 311,
     "fact": "'Mono no aware' (物の哀れ) is an aesthetic of gentle sadness at the impermanence of things.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

@@ -116,7 +116,7 @@
     "game": "Pokemon series",
     "character": "Rival characters",
     "id": 12,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -176,7 +176,7 @@
     "game": "The Legend of Zelda: Breath of the Wild (JP)",
     "character": "Revali",
     "id": 18,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -186,7 +186,7 @@
     "game": "Tales series",
     "character": "Various endings",
     "id": 19,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -486,7 +486,7 @@
     "game": "Street Fighter series",
     "character": "Ryu",
     "id": 49,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -546,7 +546,7 @@
     "game": "Fire Emblem series",
     "character": "Various protagonists",
     "id": 55,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -586,7 +586,7 @@
     "game": "Tales series",
     "character": "Various endings",
     "id": 59,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -626,7 +626,7 @@
     "game": "Tales of the Abyss",
     "character": "Luke fon Fabre",
     "id": 63,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -746,7 +746,7 @@
     "game": "Fire Emblem series",
     "character": "Various protagonists",
     "id": 75,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -856,7 +856,7 @@
     "game": "JoJo’s Bizarre Adventure: All-Star Battle",
     "character": "Giorno Giovanna",
     "id": 86,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -946,7 +946,7 @@
     "game": "Fire Emblem series",
     "character": "Various protagonists",
     "id": 95,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -996,7 +996,7 @@
     "game": "Samurai game proverb line",
     "character": "Musashi reference",
     "id": 100,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1016,7 +1016,7 @@
     "game": "Fate/stay night [Realta Nua]",
     "character": "Saber",
     "id": 102,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
