@@ -129,7 +129,7 @@ const MainMenu = () => {
               'border-b-8 border-(--main-color-accent)',
               'transition-all duration-200',
               'active:mb-[6px] active:translate-y-[6px] active:border-b-0',
-              'motion-safe:animate-float [--float-distance:-3.5px]',
+              'motion-safe:animate-float [--float-distance:-3px]',
               '[animation-delay:400ms]',
               !isGlassMode && 'opacity-90',
             )}

@@ -54,7 +54,7 @@ const SubunitSelector = ({
               borderBottomThickness={0}
               borderRadius='2xl'
               className={clsx(
-                'relative z-10 w-full px-4 pt-3 pb-5 text-center text-sm',
+                'relative z-10 h-full w-full px-4 pt-3 pb-5 text-center text-sm ',
                 isSelected && SUBUNIT_SELECTOR_ACTIVE_FLOAT_CLASSES,
                 isSelected
                   ? 'bg-transparent text-(--background-color)'
