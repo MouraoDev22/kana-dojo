@@ -240,7 +240,7 @@
     "secondaryColor": "oklch(80.0% 0.195 330.0 / 1)"
   },
   
-    {
+   {
   id: 'digital-oni',
   backgroundColor: 'oklch(14.0% 0.075 355.0 / 1)',
   mainColor: 'oklch(68.0% 0.240 10.0 / 1)',
