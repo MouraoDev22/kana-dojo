@@ -400,5 +400,11 @@
     "backgroundColor": "oklch(22.0% 0.020 235.0 / 1)",
     "mainColor": "oklch(78.0% 0.135 215.0 / 1)",
     "secondaryColor": "oklch(85.0% 0.155 90.0 / 1)"
+  },
+  {
+    "id": "neon-sakura",
+    "backgroundColor": "oklch(18.5% 0.055 320.0 / 1)",
+    "mainColor": "oklch(82.0% 0.210 340.0 / 1)",
+    "secondaryColor": "oklch(72.0% 0.165 285.0 / 1)"
   }
 ]
