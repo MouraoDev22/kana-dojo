@@ -238,17 +238,24 @@
     "character": "Nobunaga Oda"
   },
   {
-  "japanese": "未来を変えるんだ！",
-  "romaji": "Mirai o kaerun da!",
-  "english": "We're going to change the future!",
-  "game": "Steins;Gate: My Darling's Embrace",
-  "character": "Rintaro Okabe"
+    "japanese": "未来を変えるんだ！",
+    "romaji": "Mirai o kaerun da!",
+    "english": "We're going to change the future!",
+    "game": "Steins;Gate: My Darling's Embrace",
+    "character": "Rintaro Okabe"
   },
   {
-  "japanese": "生きるってのは、戦うってことだ",
-  "romaji": "Ikiru tte no wa, tatakau tte koto da",
-  "english": "To live is to fight.",
-  "game": "Yakuza: Like a Dragon",
-  "character": "Ichiban Kasuga"
-}
+    "japanese": "生きるってのは、戦うってことだ",
+    "romaji": "Ikiru tte no wa, tatakau tte koto da",
+    "english": "To live is to fight.",
+    "game": "Yakuza: Like a Dragon",
+    "character": "Ichiban Kasuga"
+  },
+  {
+    "japanese": "希望は前に進むんだ！",
+    "romaji": "Kibou wa mae ni susumun da!",
+    "english": "Hope moves forward!",
+    "game": "Danganronpa series",
+    "character": "Makoto Naegi"
+  }
 ]
