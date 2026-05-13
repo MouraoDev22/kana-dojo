@@ -451,5 +451,35 @@
   "romaji": "Hayaoki wa sanmon no toku",
   "english": "Early rising is worth three coins",
   "meaning": "Getting up early brings benefits"
+  },
+  {
+    "japanese": "自画自賛",
+    "romaji": "Jiga jisan",
+    "english": "Praising one's own painting",
+    "meaning": "Blowing your own trumpet; self-praise."
+  },
+  {
+    "japanese": "禍を転じて福と為す",
+    "romaji": "Waza wai wo tenjite fuku to nasu",
+    "english": "To turn a misfortune into a blessing",
+    "meaning": "Making the best of a bad situation or learning from a disaster to create success."
+  },
+  {
+    "japanese": "初心忘るべからず",
+    "romaji": "Shoshin wasuru bekarazu",
+    "english": "Never forget your beginner's spirit",
+    "meaning": "Always remember the humility and enthusiasm you had when you first started something."
+  },
+  {
+    "japanese": "井の中の蛙大海を知らず",
+    "romaji": "I no naka no kawazu taikai wo shirazu",
+    "english": "A frog in a well does not know the great sea",
+    "meaning": "Someone who sees the world through a narrow perspective because they haven't traveled or explored."
+  },
+  {
+    "japanese": "郷に入っては郷に従え",
+    "romaji": "Gou ni itte wa gou ni shitagae",
+    "english": "When you enter a village, follow the village",
+    "meaning": "When in Rome, do as the Romans do; adapt to local customs."
   }
 ]
